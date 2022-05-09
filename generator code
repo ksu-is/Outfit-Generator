@@ -1,0 +1,22 @@
+print("Hello, What is Your name?")
+name=input()
+
+
+print("Welcome to your personal Outfit Generator " + name + "!") 
+
+while True:
+    weather = input("Is the weather today (sunny, rainy, snowy, cloudy)?: ") 
+    print()
+
+    if weather.lower() == "sunny":
+        print("Wear a t-shirt, shorts, hat, and take some sunscreen.")
+        break
+    elif weather.lower() == "rainy":
+        print("Wear a long sleeve shirt and some jeans along with rain boots. Don't forget your umberlla!")
+        break
+    elif weather.lower() == "snowy":
+        print("Wear a Heavy, Warm coat with a hood along with some cargo pants. Oh yeah, and some winter boots.")
+        break
+    elif weather.lower() == "cloudy":
+        print("Wear a long sleeve shirt and some cargo pants. If you get cold easily, maybe bring a jacket.")
+        break
