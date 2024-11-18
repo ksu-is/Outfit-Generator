@@ -8,11 +8,11 @@ Sprint 2:
 - [x] Created a ProjectRoadmap.md
 - [x] Start to create my code for the Outft Generator
 - [ ] make small updates and commit messages in repository
-- [ ] 6 code changes
+- [ ] make a few diffrent code changes
 
 Sprint 3:
 - [ ] Create a slide presentation to showcase my created code
 - [ ] Reflect on what I did correctly as well as what I could do better on
 
 Present:
-- [ ] Present my powerpoint.
+- [ ] Present my powerpoint
