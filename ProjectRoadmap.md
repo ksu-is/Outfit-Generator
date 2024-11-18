@@ -15,4 +15,4 @@ Sprint 3:
 - [ ] Reflect on what I did correctly as well as what I could do better on
 
 Present:
-- [ ] Present my powerpoint
+- [ ] Present my powerpoint.
