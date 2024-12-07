@@ -11,9 +11,9 @@
 - [x] make a few diffrent chnages to make the code better and/or more effective
 
 # Sprint 3:
-- [ ] Create a slide presentation to showcase my created code
-- [ ] Reflect on what I did correctly as well as what I could do better on
-- [ ] Have a completed adn satisfactory version of the generator ready for use
+- [x] Create a slide presentation to showcase my created code
+- [x] Reflect on what I did correctly as well as what I could do better on
+- [x] Have a completed adn satisfactory version of the generator ready for use
 
 # Present:
-- [ ] Present my powerpoint
+- [x] Present my powerpoint
