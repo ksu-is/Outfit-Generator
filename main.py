@@ -1,25 +1,30 @@
 import random
 
+# Asking the user for their gender.
 def gender_input():
     print("What's your gender? Options: male, female, nonbinary")
     gender = input("Gender: ").strip().lower()
     return gender
 
+# Asking the user for input based on weather
 def weather_input():
     print("What's the weather like? Options: sunny, rainy, cold, hot")
     weather = input("Weather: ").strip().lower()
     return weather
 
+# Asking the user for the type of outing.
 def outing_input():
     print("Where are you going? Options: casual, formal, workout, party")
     outing = input("Outing: ").strip().lower()
     return outing
 
+# Asking the user for their preference of either lighter or darker clothing.
 def color_preferences():
     print("Do you prefer brighter or darker colors? Options: bright, dark")
     color_preference = input("Color preference: ").strip().lower()
     return color_preference
 
+# Generates an outfit suggestion based on gender, weather, type of outing, and color preference
 def suggest_outfit(gender, weather, outing, color_preference):
     outfits = {
         "male": {
@@ -146,6 +151,7 @@ def suggest_outfit(gender, weather, outing, color_preference):
     else:
         return "Sorry, I don't have an outfit suggestion for the given combination at this time."
 
+# main function to run the outfit generator
 def main():
     print("Welcome to the Outfit Generator!")
     gender = gender_input()
