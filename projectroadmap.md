@@ -13,6 +13,6 @@
 
 - [ ] Review code and cleanup all errors
 - [ ] Create slideshow presentation for project
-    - [ ] Add the title
-    - [ ] Add tag line introduceing the program and it's purpose
+    - [x] Add the title
+    - [x] Add tag line introduceing the program and it's purpose
 - [ ] Prepare 5 minute presentation slide (max 3)
